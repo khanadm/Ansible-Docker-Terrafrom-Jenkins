@@ -7,4 +7,3 @@ ENV DB_PASSWORD=ongraph
 ENV DB_NAME=ongraph
 RUN docker-php-ext-install mysqli
 EXPOSE 80
-
